@@ -9,7 +9,7 @@ html {
 }
 
 @media on screen (min-width: 1196px) { #bear {
-  position: relative;
+  position: absolute;
   left: 100px;
 }
 }
