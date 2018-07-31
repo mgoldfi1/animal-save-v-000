@@ -8,7 +8,7 @@ html {
   right: 0;
 }
 
-@media on screen (min-width: 1196px) { #bear {
+@media screen and (min-width: 1196px) { #bear {
   position: absolute;
   left: 100px;
 }
